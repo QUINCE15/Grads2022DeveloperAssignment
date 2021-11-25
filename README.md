@@ -22,3 +22,6 @@ generate your landing page.
 Addnevigation barinclude custom css
 generate a page content container
 Add background image and custom JavaScript
+
+# Screenshot
+![This is an image](./Screenshot.jpg)
