@@ -19,7 +19,7 @@ setup and overview. create anHTML page.
 load bootstrap via CDN or host it locally include a JQUERY
 Load bootstrap Javascrip.
 generate your landing page.
-Addnevigation barinclude custom css
+Add nevigation bar include custom css
 generate a page content container
 Add background image and custom JavaScript
 
